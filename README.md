@@ -20,11 +20,11 @@
 1. 下载小说到电脑上（下载的小说在books文件夹下）
 ![本地小说](https://github.com/SeaZhusp/novel-hunter/assets/32945598/2049ff5e-15a8-4e02-8fd5-60cf6f7ab9a6)
 2. 发送至VX，然后打开文件，选择小说阅读APP的方式打开，就可以阅读了（首次安装的app可能需要多操作几次，app需要一些权限）
-<img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/b8d4e075-c9cf-4dae-8de0-f2c47f9f6fd2" width="400">
-<img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/0ee285f1-7d83-4bc7-91f4-3551f2d14fc4" width="400">
-<img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/c8d838f4-2b6c-4bf5-b523-b304c11d9b22" width="400">
+<img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/b8d4e075-c9cf-4dae-8de0-f2c47f9f6fd2" width="300">
+<img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/0ee285f1-7d83-4bc7-91f4-3551f2d14fc4" width="300">
+<img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/c8d838f4-2b6c-4bf5-b523-b304c11d9b22" width="300">
 
 # 下载方式
-搜索企鹅裙：980534691，进入下载，或者扫描下面二维码
+1. 搜索企鹅裙：980534691，或者扫描下面二维码
 ![Q群](https://github.com/SeaZhusp/novel-hunter/assets/32945598/5106f407-c3ad-4b35-9f0e-b6878a9272a8)
-
+2. 进裙后，在文件中下载
