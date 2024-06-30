@@ -23,9 +23,12 @@
 <img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/0ee285f1-7d83-4bc7-91f4-3551f2d14fc4" width="300">
 <img src="https://github.com/SeaZhusp/novel-hunter/assets/32945598/c8d838f4-2b6c-4bf5-b523-b304c11d9b22" width="300">
 
-# 下载方式
+# 交流方式
 1. 搜索企鹅裙：980534691，或者扫描下面二维码
 
 ![Q群](https://github.com/SeaZhusp/novel-hunter/assets/32945598/5106f407-c3ad-4b35-9f0e-b6878a9272a8)
 
 2. 进裙后，在文件中下载
+
+# 赞助一个
+![微信截图_20240630140044](https://github.com/SeaZhusp/novel-hunter/assets/32945598/2a5247be-9e3e-4bdf-bbb4-101acdbd4458)
