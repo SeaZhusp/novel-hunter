@@ -26,5 +26,6 @@
 
 # 下载方式
 1. 搜索企鹅裙：980534691，或者扫描下面二维码
+
 ![Q群](https://github.com/SeaZhusp/novel-hunter/assets/32945598/5106f407-c3ad-4b35-9f0e-b6878a9272a8)
 2. 进裙后，在文件中下载
